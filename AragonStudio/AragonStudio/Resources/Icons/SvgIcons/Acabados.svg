@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="60.82" height="50.23" viewBox="0 0 60.82 50.23">
+  <polygon points="1.46 1.5 1.48 45.58 40.43 45.62 45.3 45.62 44.59 .96 1.46 1.5" fill="#fff" stroke="#fff" stroke-miterlimit="10"/>
+  <polygon points="4.92 30.81 5.27 31.82 6.89 33.14 31.21 33.19 31.21 30.71 31.64 17.82 30.05 14.75 30.04 30.97 4.92 30.81" fill="#fff" stroke-width="0"/>
+  <rect x=".5" y=".5" width="44.67" height="6.57" fill="#fff" stroke-width="0"/>
+  <rect x="2.95" y="4.53" width="3.94" height="40.91" fill="#fff" stroke-width="0"/>
+  <line x1="6.89" y1="33.42" x2="6.89" y2="44.25" fill="none" stroke="#575756" stroke-miterlimit="10" stroke-width=".75"/>
+  <polyline points="4.53 31.37 6.89 33.3 31.42 33.3 31.42 17.8 30 14.62" fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width=".75"/>
+  <line x1="29.66" y1="30.97" x2="31.42" y2="33.3" fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width=".75"/>
+  <polyline points="2.95 3.04 7.03 7.11 43.07 7.11" fill="none" stroke="#575756" stroke-miterlimit="10" stroke-width=".75"/>
+  <line x1="6.89" y1="14.62" x2="6.89" y2="7.11" fill="none" stroke="#575756" stroke-miterlimit="10" stroke-width=".75"/>
+  <g>
+    <polygon points="35.36 46.57 12.15 46.57 .5 46.57 .5 .5 45.08 .5 45.08 16.7 43.07 16.7 43.07 3.04 2.95 3.04 2.95 44.12 12.15 44.12 35.41 44.34 35.36 46.57" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="11.62" y1="44.3" x2="11.62" y2="46.57" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="25.11" y1="44.24" x2="25.11" y2="46.57" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="11.62" y1="45.43" x2="25.11" y2="45.43" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <rect x="38.51" y="20.21" width="21.81" height="29.52" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="42.19" y1="27.83" x2="56.47" y2="27.83" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="42.19" y1="32.03" x2="56.47" y2="32.03" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="42.28" y1="36.24" x2="56.56" y2="36.24" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="42.19" y1="40.09" x2="56.47" y2="40.09" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="42.28" y1="44.73" x2="48.06" y2="44.73" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <rect x="4.79" y="14.95" width="25.05" height="16.2" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <line x1="14.3" y1="30.81" x2="12.91" y2="26.04" fill="none" stroke="#3c3c3b" stroke-miterlimit="10"/>
+    <rect x="4.79" y="14.95" width="4.2" height="8.58" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <rect x="4.79" y="23.05" width="4.2" height="8.1" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <polyline points="12.24 14.95 12.24 25.11 16.35 30.81" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  </g>
+</svg>

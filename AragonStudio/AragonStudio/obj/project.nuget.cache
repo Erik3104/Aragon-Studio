@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxijRRO+3cY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eriks\\.nuget\\packages\\sharpvectors.wpf\\1.8.5\\sharpvectors.wpf.1.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}

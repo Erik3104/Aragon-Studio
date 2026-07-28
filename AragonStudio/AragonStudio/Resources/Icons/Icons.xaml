@@ -1,0 +1,21 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- ============================= -->
+    <!--  ÍCONOS VECTORIALES - ARAGÓN STUDIO -->
+    <!--  Archivo limpio y listo para registrar íconos nuevos -->
+    <!-- ============================= -->
+
+    <!-- Ejemplo de ícono definido desde un archivo SVG (si deseas referenciarlo en un botón, etc.) -->
+    <!--
+    <DrawingImage x:Key="IconMEP">
+        <DrawingImage.Drawing>
+            <DrawingGroup>
+                <GeometryDrawing Brush="#FF58ABC4" Geometry="M10,10 L90,10 L90,90 L10,90Z"/>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    -->
+
+</ResourceDictionary>

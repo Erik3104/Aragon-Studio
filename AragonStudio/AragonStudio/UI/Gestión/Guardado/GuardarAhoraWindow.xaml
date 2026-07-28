@@ -1,0 +1,21 @@
+﻿<Window x:Class="AragonStudio.UI.Gestión.Guardado.GuardarAhoraWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen"
+        Width="350" Height="160">
+    <Border Background="#CC0000" BorderBrush="#8B0000" BorderThickness="2" CornerRadius="8">
+        <StackPanel Margin="20" VerticalAlignment="Center">
+            <TextBlock Text="¡ATENCIÓN!" FontWeight="Bold" FontSize="22" 
+                       Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,25"/>
+            <Button x:Name="btnGuardar" Content="Guardar ahora" 
+                    Click="BtnGuardar_Click" Width="140" Height="40"
+                    Background="White" Foreground="Black" 
+                    BorderBrush="#CCCCCC" BorderThickness="1" 
+                    FontSize="14" FontWeight="SemiBold"
+                    HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Border>
+</Window>

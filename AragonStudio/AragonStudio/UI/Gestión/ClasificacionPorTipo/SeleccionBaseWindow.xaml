@@ -1,0 +1,59 @@
+﻿<Window x:Class="AragonStudio.UI.Gestión.ClasificacionPorTipo.SeleccionBaseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ARAGÓN STUDIO - Paso 2 de 3"
+        Width="480" Height="290"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#1E1E1E"
+        FontFamily="Segoe UI">
+    <Window.Resources>
+        <Style x:Key="CardBorder" TargetType="Border">
+            <Setter Property="Background" Value="#2D2D2D"/>
+            <Setter Property="CornerRadius" Value="8"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="2" Opacity="0.25" Color="Black"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="PrimaryButton" TargetType="Button">
+            <Setter Property="Background" Value="#007ACC"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Height" Value="42"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6" Padding="12,6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#005A9E"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="#555555"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#E0E0E0"/>
+            <Setter Property="FontSize" Value="13"/>
+        </Style>
+    </Window.Resources>
+
+    <Border Style="{StaticResource CardBorder}" Margin="15" Padding="15">
+        <StackPanel>
+            <TextBlock Text="Selección de elementos base" FontWeight="Bold" FontSize="18" Foreground="White" Margin="0,0,0,15" HorizontalAlignment="Center"/>
+            <TextBlock Text="Selecciona exactamente 2 elementos (instancias) que servirán como base de la secuencia." TextWrapping="Wrap" Margin="0,0,0,10" Foreground="#CCCCCC"/>
+            <TextBlock Text="Recibirán los números 1 y 2 respectivamente." FontWeight="SemiBold" Foreground="#27AE60" Margin="0,0,0,25"/>
+            <Button x:Name="btnSeleccionar" Content="Seleccionar elementos en el modelo" Style="{StaticResource PrimaryButton}" Click="BtnSeleccionar_Click"/>
+        </StackPanel>
+    </Border>
+</Window>

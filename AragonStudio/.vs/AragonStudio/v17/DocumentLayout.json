@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\aragonstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\aragonstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\documentaci\u00F3n\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\documentaci\u00F3n\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\guardado.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\guardado.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\gesti\u00F3n\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\gesti\u00F3n\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgiconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgiconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\dwgarevit\\geometryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\dwgarevit\\geometryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\dwgarevit\\dwgscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\dwgarevit\\dwgscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DwgARvtWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
+              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-12T17:49:32.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtiquetadoArquitectonicoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T05:13:53.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuardadoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T05:51:15.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuardadoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
+              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T05:50:48.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtiquetadoMEPWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
+              "ViewState": "AgIAAHMCAAAAAAAAAAAAAIECAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T03:09:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AragonStudio.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+              "RelativeDocumentMoniker": "AragonStudio\\AragonStudio.csproj",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+              "RelativeToolTip": "AragonStudio\\AragonStudio.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T03:53:49.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EtiquetadoMep.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "RelativeToolTip": "AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T05:12:56.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DwgARvtWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAA1wMoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T01:32:50.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuardarAhoraWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
+              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T05:51:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-06-23T05:53:10.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
+              "RelativeToolTip": "AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T05:49:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\App.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\App.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\App.cs",
+              "RelativeToolTip": "AragonStudio\\App.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:06:05.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Guardado.svg",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-23T05:55:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Guardado.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
+              "RelativeToolTip": "AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T05:48:19.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FamiliaDeTipoAVista3D.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "RelativeToolTip": "AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T06:15:52.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T06:15:26.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SvgIconLoader.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T04:39:46.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EtiquetadoMEPWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
+              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-19T02:57:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WaitForSpaceDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
+              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T16:08:49.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GeometryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
+              "RelativeToolTip": "AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T02:50:26.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WaitForSpaceDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
+              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T02:47:36.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DwgScanner.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
+              "RelativeToolTip": "AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T16:34:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DwgARvt.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "RelativeToolTip": "AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "ViewState": "AgIAAHsEAAAAAAAAAAAgwIMEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T01:02:09.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

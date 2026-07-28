@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="61.78" height="62.42" viewBox="0 0 61.78 62.42">
+  <polygon points="54.49 3.32 58.58 6.67 56.34 8.01 57.24 10.36 61.12 11 60.06 14.19 56.07 14.36 53.94 16.4 55.23 18.4 50.65 20.02 48.05 18.53 45.82 18.77 45.21 20.96 39.22 20.64 39.58 18.45 36.44 17.74 33.12 18.98 29.16 16.5 31.27 14.83 29.88 12.55 26.25 12.01 26.81 8.4 30.38 8.31 32.16 6 30.1 4.09 34.72 1.79 37.39 3.25 42.18 2.63 43.26 .52 48.52 .92 48.75 3.04 52.25 4.33 54.49 3.32" fill="#ededed" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polygon points="46.54 29.22 53.21 34.04 49.56 35.98 51.01 39.35 57.33 40.28 55.61 44.87 49.11 45.12 45.65 48.05 47.75 50.92 40.3 53.26 36.06 51.11 32.43 51.46 31.44 54.6 21.7 54.15 22.27 51 17.16 49.98 11.77 51.75 5.32 48.19 8.76 45.79 6.5 42.51 .58 41.73 1.5 36.54 7.3 36.41 10.21 33.07 6.85 30.33 14.37 27.03 18.72 29.12 26.51 28.24 28.27 25.2 36.82 25.76 37.21 28.83 42.9 30.68 46.54 29.22" fill="#ededed" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <ellipse cx="28.82" cy="40.05" rx="13.77" ry="7.13" fill="#ededed" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <path d="m17.16,43.86s2.97-3.31,10.88-3.31,12.43,3.31,12.43,3.31" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="11.77" y1="51.75" x2="11.77" y2="59.24" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="17.28" y1="50" x2="17.28" y2="57.28" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="5.05" y1="48.19" x2="5.05" y2="55.5" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="21.65 54.46 21.65 61.92 31.34 61.92 32.68 58.68" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="31.34" y1="54.6" x2="31.34" y2="62.01" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="36.06 51.11 36.06 58.15 32.83 58.63" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="32.68" y1="51.43" x2="32.68" y2="58.78" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="40.3" y1="53.26" x2="40.3" y2="60.41" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="47.75" y1="50.92" x2="47.75" y2="57.59" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="48.95 45.25 48.95 52.69 55.61 52.12 55.61 51.82 55.61 44.87" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="57.45" y1="39.96" x2="57.45" y2="47.69" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="53.51" y1="34.11" x2="53.51" y2="39.73" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="6.5" y1="42.51" x2="6.5" y2="47.42" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points=".52 42.05 .52 48.77 5.11 49.85" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="6.56" y1="30.28" x2="6.56" y2="36.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="5.05 55.36 11.77 58.93 17.28 57.02 21.65 58.27" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="57.47" y1="47.57" x2="55.63" y2="52.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="47.75" y1="54.2" x2="49.12" y2="52.49" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="36.06 58.09 40.3 60.27 48.01 57.41" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <ellipse cx="43.6" cy="10.85" rx="8.46" ry="4.96" fill="#ededed" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <path d="m36.44,13.49s1.83-2.3,6.68-2.3,7.64,2.3,7.64,2.3" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="33.12" y1="18.98" x2="33.12" y2="24.18" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="36.51" y1="17.76" x2="36.51" y2="22.81" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="28.75" y1="16.5" x2="28.75" y2="21.58" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="39.19 20.86 39.19 26.04 45.14 26.04 45.97 23.79" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="45.14" y1="20.95" x2="45.14" y2="26.1" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="48.05 18.53 48.05 23.42 46.07 23.76" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="45.97" y1="18.75" x2="45.97" y2="23.86" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="50.65" y1="20.02" x2="50.65" y2="24.99" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="55.23" y1="18.4" x2="55.23" y2="23.03" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="55.97 14.46 55.97 19.63 60.06 19.23 60.06 19.02 60.06 14.19" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="61.2" y1="10.78" x2="61.2" y2="16.15" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="58.77" y1="6.71" x2="58.77" y2="10.62" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="29.88" y1="12.55" x2="29.88" y2="15.96" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="26.17 12.49 26.21 16.9 28.97 17.02" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="29.68" y1="3.97" x2="29.68" y2="8.2" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="28.49 21.08 32.97 23.96 36.44 22.61 39.19 23.49" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="61.21" y1="16.07" x2="60.07" y2="19.4" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="55.23" y1="20.68" x2="56.07" y2="19.49" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points="48.05 23.38 50.65 24.89 55.53 22.61" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+</svg>

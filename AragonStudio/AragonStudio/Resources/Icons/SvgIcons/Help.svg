@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="50.38" height="64.57" viewBox="0 0 50.38 64.57">
+  <rect x="1.5" y="1.5" width="47.38" height="61.57" fill="#fff" stroke="#3a3a3a" stroke-miterlimit="10" stroke-width="3"/>
+  <polyline points="1.5 52.12 11.83 41.95 40.64 13.59 40.64 63.07" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="11.39" y1="42.38" x2="40.64" y2="42.38" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="4"/>
+  <line x1="1.5" y1="63.07" x2="1.5" y2=".49" fill="none" stroke="#3a3a3a" stroke-miterlimit="10" stroke-width="3"/>
+  <line x1="48.88" y1="63.07" x2="1.5" y2="63.07" fill="none" stroke="#3a3a3a" stroke-miterlimit="10" stroke-width="3"/>
+</svg>
