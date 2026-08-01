@@ -1,0 +1,6 @@
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.csproj.AssemblyReference.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Clasificacion\obj\Release\net8.0\AragonStudio.Clasificacion.sourcelink.json

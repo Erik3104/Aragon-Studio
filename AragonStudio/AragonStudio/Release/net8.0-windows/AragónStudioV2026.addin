@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aragón Studio</Name>
+		<Assembly>AragonStudio\AragonStudio.dll</Assembly>
+		<AddInId>{12345678-1234-1234-1234-123456789ABC}</AddInId>
+		<FullClassName>AragonStudio.App</FullClassName>
+		<VendorId>ARAGON</VendorId>
+		<VendorDescription>Estudio BIM</VendorDescription>
+		<Description>Herramientas de productividad para Revit 2026</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

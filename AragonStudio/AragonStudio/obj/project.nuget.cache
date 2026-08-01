@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KxijRRO+3cY=",
+  "dgSpecHash": "VJNBIMn3PQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+  "projectFilePath": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eriks\\.nuget\\packages\\sharpvectors.wpf\\1.8.5\\sharpvectors.wpf.1.8.5.nupkg.sha512"
   ],

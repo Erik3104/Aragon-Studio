@@ -1,98 +1,199 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\",
+  "WorkspaceRootPath": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\aragonstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.detalles\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|solutionrelative:aragonstudio.detalles\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\aragonstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\aragonstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.detalles\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|solutionrelative:aragonstudio.detalles\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.detalles\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|solutionrelative:aragonstudio.detalles\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.detalles\\detallesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|solutionrelative:aragonstudio.detalles\\detallesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\documentaci\u00F3n\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\documentaci\u00F3n\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.detalles\\aragonstudio.detalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3EE7D37-90FA-4EB7-8E60-AF44B122484C}|AragonStudio.Detalles\\AragonStudio.Detalles.csproj|solutionrelative:aragonstudio.detalles\\aragonstudio.detalles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.help\\ui\\help\\helpwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|solutionrelative:aragonstudio.help\\ui\\help\\helpwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.help\\ui\\help\\helpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|solutionrelative:aragonstudio.help\\ui\\help\\helpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\guardado.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\guardado.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.help\\commands\\help\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|solutionrelative:aragonstudio.help\\commands\\help\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.help\\helpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|solutionrelative:aragonstudio.help\\helpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.help\\aragonstudio.help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49112D63-81BD-4D2A-B1AE-174A3C15F0B0}|AragonStudio.Help\\AragonStudio.Help.csproj|solutionrelative:aragonstudio.help\\aragonstudio.help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\gesti\u00F3n\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\seleccionbasewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\seleccionbasewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\seleccionbasewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\seleccionbasewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\gesti\u00F3n\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\gesti\u00F3n\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\ejecucionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\ejecucionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\vistas\\familiadetipoavista3d\\familiadetipoavista3dwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\ejecucionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\ejecucionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\vistas\\familiadetipoavista3d\\familiadetipoavista3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configuracionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configuracionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\resources\\icons\\svgiconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configuracionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configuracionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\ui\\gestion\\clasificacionportipo\\configdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\commands\\gestion\\clasificacionportipo\\clasificacionportipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\commands\\gestion\\clasificacionportipo\\clasificacionportipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\clasificacionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\clasificacionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.clasificacion\\aragonstudio.clasificacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{372021BD-188D-43DA-B958-3A46B9827FE1}|AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj|solutionrelative:aragonstudio.clasificacion\\aragonstudio.clasificacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\resources\\icons\\svgiconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgiconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\dwgarvtwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\documentaci\u00F3n\\etiquetadomep\\etiquetadomepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\guardadomodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\guardadomodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\aragonstudio.guardado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\aragonstudio.guardado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\iaragonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\iaragonmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\ui\\convertidor\\dwgarvt\\waitforspacedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\ui\\gestion\\guardado\\guardarahorawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\ui\\gestion\\guardado\\guardarahorawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\dwgarevit\\geometryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\dwgarevit\\geometryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\ui\\gestion\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\ui\\gestion\\guardado\\guardarahorawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\source\\repos\\aragonstudio\\aragonstudio\\services\\dwgarevit\\dwgscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\services\\dwgarevit\\dwgscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\ui\\gestion\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\ui\\gestion\\guardado\\guardadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\ui\\gestion\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\ui\\gestion\\guardado\\guardadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\services\\guardado\\recordatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.guardado\\commands\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0D4A7-F8C6-4E36-90C7-4E88BED9B4E5}|AragonStudio.Guardado\\AragonStudio.Guardado.csproj|solutionrelative:aragonstudio.guardado\\commands\\guardado\\guardado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\arag\u00F3nstudiov2026.addin||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\arag\u00F3nstudiov2026.addin||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.vista\\commands\\vistas\\visibilitymanager\\visibilitymanagercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|solutionrelative:aragonstudio.vista\\commands\\vistas\\visibilitymanager\\visibilitymanagercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.vista\\aragonstudio.vista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|solutionrelative:aragonstudio.vista\\aragonstudio.vista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.etiquetado\\commands\\documentacion\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|solutionrelative:aragonstudio.etiquetado\\commands\\documentacion\\etiquetadomep\\etiquetadomep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.etiquetado\\commands\\documentacion\\etiquetadoestructural\\etiquetadoestructural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|solutionrelative:aragonstudio.etiquetado\\commands\\documentacion\\etiquetadoestructural\\etiquetadoestructural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.etiquetado\\commands\\documentacion\\etiquetadoarquitectonico\\etiquetadoarquitectonico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|solutionrelative:aragonstudio.etiquetado\\commands\\documentacion\\etiquetadoarquitectonico\\etiquetadoarquitectonico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.dwgarvt\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|solutionrelative:aragonstudio.dwgarvt\\commands\\convertidor\\dwgarvt\\dwgarvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.dwgarvt\\aragonstudio.dwgarvt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|solutionrelative:aragonstudio.dwgarvt\\aragonstudio.dwgarvt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eriks\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.etiquetado\\ui\\documentacion\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|solutionrelative:aragonstudio.etiquetado\\ui\\documentacion\\etiquetadoarquitectonico\\etiquetadoarquitectonicowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.etiquetado\\aragonstudio.etiquetado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD152E3-61AC-4C81-ACB0-1D567433FF80}|AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj|solutionrelative:aragonstudio.etiquetado\\aragonstudio.etiquetado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.vista\\models\\visibilitymanager\\viewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF89C69-674B-444D-B2F1-9A7F488C8F77}|AragonStudio.Vista\\AragonStudio.Vista.csproj|solutionrelative:aragonstudio.vista\\models\\visibilitymanager\\viewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\planos.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\planos.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio\\resources\\icons\\svgicons\\acabados.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1860FEC-D587-4738-B374-E5BCFEF8DFFD}|AragonStudio\\AragonStudio.csproj|solutionrelative:aragonstudio\\resources\\icons\\svgicons\\acabados.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|c:\\users\\eriks\\onedrive\\desktop\\aragon-studio\\aragonstudio\\aragonstudio.dwgarvt\\aragonstudio.dwgarvt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75235C79-3B7C-E2EA-C04A-D8876AF4D1CB}|AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj|solutionrelative:aragonstudio.dwgarvt\\aragonstudio.dwgarvt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,280 +203,627 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DwgARvtWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
-              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-12T17:49:32.268Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EtiquetadoArquitectonicoWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T05:13:53.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GuardadoWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T05:51:15.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GuardadoWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
-              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardadoWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T05:50:48.245Z"
+              "Title": "AragonStudio.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+              "RelativeDocumentMoniker": "AragonStudio\\AragonStudio.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+              "RelativeToolTip": "AragonStudio\\AragonStudio.csproj",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0EAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T02:26:56.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EtiquetadoMEPWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml.cs",
-              "ViewState": "AgIAAHMCAAAAAAAAAAAAAIECAAABAAAAAAAAAA==",
+              "Title": "FamiliaDeTipoAVista3D.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Detalles\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "RelativeToolTip": "AragonStudio.Detalles\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T03:09:18.184Z"
+              "WhenOpened": "2026-08-01T02:26:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FamiliaDeTipoAVista3DWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T04:43:08.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AragonStudio.csproj",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
-              "RelativeDocumentMoniker": "AragonStudio\\AragonStudio.csproj",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
-              "RelativeToolTip": "AragonStudio\\AragonStudio.csproj",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-19T03:53:49.692Z",
+              "Title": "FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Detalles\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAA9wJkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T04:43:06.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EtiquetadoMep.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
-              "RelativeToolTip": "AragonStudio\\Commands\\Documentaci\u00F3n\\EtiquetadoMep\\EtiquetadoMep.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DetallesModule.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\DetallesModule.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Detalles\\DetallesModule.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\DetallesModule.cs",
+              "RelativeToolTip": "AragonStudio.Detalles\\DetallesModule.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T05:12:56.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DwgARvtWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\DwgARvtWindow.xaml.cs",
-              "ViewState": "AgIAAL0BAAAAAAAAAAA1wMoBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T01:32:50.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GuardarAhoraWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
-              "RelativeToolTip": "AragonStudio\\UI\\Gesti\u00F3n\\Guardado\\GuardarAhoraWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-23T05:51:38.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
-              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
-              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [50x50, 32 bits, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2026-06-23T05:53:10.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RecordatorioService.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
-              "RelativeToolTip": "AragonStudio\\Services\\Guardado\\RecordatorioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T05:49:16.124Z"
+              "WhenOpened": "2026-08-01T04:46:00.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\App.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\App.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\App.cs",
-              "RelativeToolTip": "AragonStudio\\App.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwAkAAAA2AAAAAAAAAA==",
+              "Title": "AragonStudio.Detalles.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\AragonStudio.Detalles.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Detalles\\AragonStudio.Detalles.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Detalles\\AragonStudio.Detalles.csproj",
+              "RelativeToolTip": "AragonStudio.Detalles\\AragonStudio.Detalles.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T03:34:52.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\UI\\Help\\HelpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Help\\UI\\Help\\HelpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\UI\\Help\\HelpWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Help\\UI\\Help\\HelpWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T01:06:05.863Z"
+              "WhenOpened": "2026-08-01T04:22:30.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Guardado.svg",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
-              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
-              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Guardado.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2026-06-23T05:55:27.941Z"
+              "Title": "HelpWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\UI\\Help\\HelpWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Help\\UI\\Help\\HelpWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\UI\\Help\\HelpWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Help\\UI\\Help\\HelpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T04:22:02.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Guardado.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
-              "RelativeToolTip": "AragonStudio\\Commands\\Gesti\u00F3n\\Guardado\\Guardado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\Commands\\Help\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Help\\Commands\\Help\\HelpCommand.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\Commands\\Help\\HelpCommand.cs",
+              "RelativeToolTip": "AragonStudio.Help\\Commands\\Help\\HelpCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T05:48:19.244Z"
+              "WhenOpened": "2026-08-01T04:20:14.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FamiliaDeTipoAVista3D.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
-              "RelativeToolTip": "AragonStudio\\Commands\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3D.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "HelpModule.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\HelpModule.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Help\\HelpModule.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\HelpModule.cs",
+              "RelativeToolTip": "AragonStudio.Help\\HelpModule.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T06:15:52.203Z"
+              "WhenOpened": "2026-08-01T04:27:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AragonStudio.Help",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\AragonStudio.Help.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Help\\AragonStudio.Help.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Help\\AragonStudio.Help.csproj",
+              "RelativeToolTip": "AragonStudio.Help\\AragonStudio.Help.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-01T04:20:11.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "FamiliaDeTipoAVista3DWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Vistas\\FamiliaDeTipoAVista3D\\FamiliaDeTipoAVista3DWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EjecucionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwJMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T06:15:26.218Z"
+              "WhenOpened": "2026-08-01T04:03:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeleccionBaseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T04:03:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeleccionBaseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\SeleccionBaseWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T04:03:44.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EjecucionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\EjecucionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T04:02:46.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SvgIconLoader.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
-              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ConfiguracionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwMsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:39:46.609Z"
+              "WhenOpened": "2026-08-01T04:02:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfiguracionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfiguracionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T04:01:49.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "EtiquetadoMEPWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
-              "RelativeToolTip": "AragonStudio\\UI\\Documentaci\u00F3n\\EtiquetadoMEP\\EtiquetadoMEPWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-19T02:57:05.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "WaitForSpaceDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
-              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-16T16:08:49.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GeometryHelper.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
-              "RelativeToolTip": "AragonStudio\\Services\\dwgArevit\\GeometryHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ConfigData.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfigData.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfigData.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfigData.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\UI\\Gestion\\ClasificacionPorTipo\\ConfigData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T02:50:26.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WaitForSpaceDialog.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
-              "RelativeToolTip": "AragonStudio\\UI\\Convertidor\\DwgARvt\\WaitForSpaceDialog.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T02:47:36.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DwgScanner.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
-              "RelativeToolTip": "AragonStudio\\Services\\dwgArevit\\DwgScanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T16:34:51.956Z"
+              "WhenOpened": "2026-08-01T04:01:29.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "DwgARvt.cs",
-              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
-              "RelativeDocumentMoniker": "AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
-              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
-              "RelativeToolTip": "AragonStudio\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
-              "ViewState": "AgIAAHsEAAAAAAAAAAAgwIMEAAABAAAAAAAAAA==",
+              "Title": "ClasificacionPorTipo.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\Commands\\Gestion\\ClasificacionPorTipo\\ClasificacionPorTipo.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\Commands\\Gestion\\ClasificacionPorTipo\\ClasificacionPorTipo.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\Commands\\Gestion\\ClasificacionPorTipo\\ClasificacionPorTipo.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\Commands\\Gestion\\ClasificacionPorTipo\\ClasificacionPorTipo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T01:02:09.928Z"
+              "WhenOpened": "2026-08-01T02:18:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClasificacionModule.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\ClasificacionModule.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\ClasificacionModule.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\ClasificacionModule.cs",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\ClasificacionModule.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T04:06:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AragonStudio.Clasificacion.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj",
+              "RelativeToolTip": "AragonStudio.Clasificacion\\AragonStudio.Clasificacion.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T02:57:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\App.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\App.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\App.cs",
+              "RelativeToolTip": "AragonStudio\\App.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAkwL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:55:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SvgIconLoader.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIconLoader.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T03:49:47.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuardadoModule.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\GuardadoModule.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\GuardadoModule.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\GuardadoModule.cs",
+              "RelativeToolTip": "AragonStudio.Guardado\\GuardadoModule.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T03:32:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AragonStudio.Guardado.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\AragonStudio.Guardado.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\AragonStudio.Guardado.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\AragonStudio.Guardado.csproj",
+              "RelativeToolTip": "AragonStudio.Guardado\\AragonStudio.Guardado.csproj",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T03:35:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAragonModule.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\IAragonModule.cs",
+              "RelativeDocumentMoniker": "AragonStudio\\IAragonModule.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\IAragonModule.cs",
+              "RelativeToolTip": "AragonStudio\\IAragonModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:51:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GuardarAhoraWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T02:57:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GuardadoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:57:05.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GuardarAhoraWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardarAhoraWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:57:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GuardadoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml",
+              "RelativeToolTip": "AragonStudio.Guardado\\UI\\Gestion\\Guardado\\GuardadoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-01T02:56:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RecordatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\Services\\Guardado\\RecordatorioService.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\Services\\Guardado\\RecordatorioService.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\Services\\Guardado\\RecordatorioService.cs",
+              "RelativeToolTip": "AragonStudio.Guardado\\Services\\Guardado\\RecordatorioService.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAkwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:56:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Guardado.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\Commands\\Guardado\\Guardado.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Guardado\\Commands\\Guardado\\Guardado.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Guardado\\Commands\\Guardado\\Guardado.cs",
+              "RelativeToolTip": "AragonStudio.Guardado\\Commands\\Guardado\\Guardado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:31:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Arag\u00F3nStudioV2026.addin",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Arag\u00F3nStudioV2026.addin",
+              "RelativeDocumentMoniker": "AragonStudio\\Arag\u00F3nStudioV2026.addin",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Arag\u00F3nStudioV2026.addin",
+              "RelativeToolTip": "AragonStudio\\Arag\u00F3nStudioV2026.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2026-08-01T03:31:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VisibilityManagerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\Commands\\Vistas\\VisibilityManager\\VisibilityManagerCommand.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Vista\\Commands\\Vistas\\VisibilityManager\\VisibilityManagerCommand.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\Commands\\Vistas\\VisibilityManager\\VisibilityManagerCommand.cs",
+              "RelativeToolTip": "AragonStudio.Vista\\Commands\\Vistas\\VisibilityManager\\VisibilityManagerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:32:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EtiquetadoMep.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "RelativeToolTip": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoMep\\EtiquetadoMep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:30:14.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AragonStudio.Vista.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\AragonStudio.Vista.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Vista\\AragonStudio.Vista.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\AragonStudio.Vista.csproj",
+              "RelativeToolTip": "AragonStudio.Vista\\AragonStudio.Vista.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T03:35:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EtiquetadoEstructural.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoEstructural\\EtiquetadoEstructural.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoEstructural\\EtiquetadoEstructural.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoEstructural\\EtiquetadoEstructural.cs",
+              "RelativeToolTip": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoEstructural\\EtiquetadoEstructural.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:29:50.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EtiquetadoArquitectonico.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonico.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonico.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonico.cs",
+              "RelativeToolTip": "AragonStudio.Etiquetado\\Commands\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T02:29:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DwgARvt.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "RelativeDocumentMoniker": "AragonStudio.DwgArvt\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "RelativeToolTip": "AragonStudio.DwgArvt\\Commands\\Convertidor\\DwgARvt\\DwgARvt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T02:17:20.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AragonStudio.DwgArvt.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "RelativeToolTip": "AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T02:25:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt",
+              "DocumentMoniker": "C:\\Users\\eriks\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt",
+              "ToolTip": "C:\\Users\\eriks\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\VSProjectConfigWarningLog_fe37cf57-2e64-438f-8f7f-f0eb56c295c6.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-01T02:05:27.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EtiquetadoArquitectonicoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\UI\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Etiquetado\\UI\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\UI\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "RelativeToolTip": "AragonStudio.Etiquetado\\UI\\Documentacion\\EtiquetadoArquitectonico\\EtiquetadoArquitectonicoWindow.xaml.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAtwA4BAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T04:26:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AragonStudio.Etiquetado.csproj",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj",
+              "RelativeToolTip": "AragonStudio.Etiquetado\\AragonStudio.Etiquetado.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T03:35:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Planos.svg",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Planos.svg",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Planos.svg",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Planos.svg",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Planos.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-07-31T03:18:42.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ViewItem.cs",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\Models\\VisibilityManager\\ViewItem.cs",
+              "RelativeDocumentMoniker": "AragonStudio.Vista\\Models\\VisibilityManager\\ViewItem.cs",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.Vista\\Models\\VisibilityManager\\ViewItem.cs",
+              "RelativeToolTip": "AragonStudio.Vista\\Models\\VisibilityManager\\ViewItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T03:16:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAAL4CAAAAAAAAAIAwwMICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-07-31T03:18:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Acabados.svg",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Acabados.svg",
+              "RelativeDocumentMoniker": "AragonStudio\\Resources\\Icons\\SvgIcons\\Acabados.svg",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Acabados.svg",
+              "RelativeToolTip": "AragonStudio\\Resources\\Icons\\SvgIcons\\Acabados.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-07-31T03:09:54.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AragonStudio.DwgArvt",
+              "DocumentMoniker": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "RelativeDocumentMoniker": "AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "ToolTip": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "RelativeToolTip": "AragonStudio.DwgArvt\\AragonStudio.DwgArvt.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T02:25:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Logo.ico",
+              "DocumentMoniker": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "ToolTip": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\AragonStudio\\AragonStudio\\Resources\\Icons\\SvgIcons\\Logo.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-06-23T05:53:10.71Z"
             }
           ]
         }

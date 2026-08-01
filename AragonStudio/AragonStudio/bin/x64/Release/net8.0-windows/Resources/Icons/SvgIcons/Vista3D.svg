@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="61.62" height="62.1" viewBox="0 0 61.62 62.1">
+  <polygon points="10.34 .85 1.41 10.41 .88 61.5 51.27 61.6 61 50.32 60.73 .85 10.34 .85" fill="#fff" stroke="#fff" stroke-miterlimit="10"/>
+  <rect x=".5" y="10.62" width="50.97" height="50.97" fill="#ededed" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <polyline points=".68 10.62 10.15 .5 61.12 .5 61.12 50.69 51.65 61.59" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="51.65" y1="10.62" x2="61.12" y2=".5" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <rect x=".68" y="10.62" width="50.97" height="13.53" fill="none" stroke="#1d1d1b" stroke-dasharray="0 0 0 3" stroke-miterlimit="10"/>
+  <rect x=".68" y="24.15" width="16.12" height="37.45" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <rect x="33.88" y="24.15" width="17.77" height="37.45" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <rect x=".5" y="24.15" width="51.15" height="5.26" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <rect x=".68" y="29.41" width="50.97" height="7.49" fill="none" stroke="#1d1d1b" stroke-dasharray="0 0 0 3" stroke-miterlimit="10"/>
+  <rect x=".68" y="36.89" width="50.97" height="7.75" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <rect x=".68" y="44.65" width="50.97" height="7.62" fill="none" stroke="#1d1d1b" stroke-dasharray="0 0 0 3" stroke-miterlimit="10"/>
+  <rect x=".68" y="52.27" width="50.97" height="6.31" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="3.53" y1="17.16" x2="46.8" y2="17.61" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+</svg>

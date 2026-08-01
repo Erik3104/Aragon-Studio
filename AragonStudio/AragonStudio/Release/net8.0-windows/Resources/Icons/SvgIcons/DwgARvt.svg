@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="19.23mm" height="16.3mm" viewBox="0 0 54.52 46.2">
+  <polyline points="16.58 20.02 .96 29.18 27.02 45.61 53.56 29.4 38.67 20.21" fill="#fff" stroke="#474747" stroke-miterlimit="10"/>
+  <polyline points="19.55 23.88 10.36 29.1 22.21 36.77 33.64 29.94" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+  <polyline points="26.62 39.43 42.81 29.81 34.71 24.75" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+  <line x1="16.07" y1="26.16" x2="21.79" y2="29.81" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+  <line x1="27.79" y1="33.32" x2="25.2" y2="31.78" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+  <polygon points="16.76 6.82 16.76 21.92 27.83 28.36 38.83 22.15 38.83 6.82 27.8 .57 16.76 6.82" fill="#fff" stroke="#474747" stroke-miterlimit="10"/>
+  <polyline points="16.76 6.82 27.8 13.09 27.8 28.36" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+  <line x1="38.83" y1="6.82" x2="27.8" y2="13.09" fill="none" stroke="#474747" stroke-miterlimit="10"/>
+</svg>

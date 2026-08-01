@@ -9,59 +9,68 @@
 		<Title>Aragón Studio</Title>
 	</PropertyGroup>
 
-	<!-- Debug -->
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
 		<PlatformTarget>x64</PlatformTarget>
 		<OutputPath>bin\x64\Debug\</OutputPath>
 	</PropertyGroup>
 
-	<!-- Release -->
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
 		<PlatformTarget>x64</PlatformTarget>
-		<OutputPath>bin\x64\Release\</OutputPath>
+		<OutputPath>Release\</OutputPath>
 	</PropertyGroup>
 
-	<!-- 📦 Dependencias NuGet -->
 	<ItemGroup>
 		<PackageReference Include="SharpVectors.Wpf" Version="1.8.5" />
 	</ItemGroup>
 
-	<!-- 📘 Referencias de Revit 2025 -->
 	<ItemGroup>
 		<Reference Include="RevitAPI">
-			<HintPath>C:\Program Files\Autodesk\Revit 2025\RevitAPI.dll</HintPath>
-			<Private>false</Private>
+			<HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPI.dll</HintPath>
+			<Private>False</Private>
 		</Reference>
 		<Reference Include="RevitAPIUI">
-			<HintPath>C:\Program Files\Autodesk\Revit 2025\RevitAPIUI.dll</HintPath>
-			<Private>false</Private>
+			<HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPIUI.dll</HintPath>
+			<Private>False</Private>
 		</Reference>
 	</ItemGroup>
 
-	<!-- 📁 Recursos -->
 	<ItemGroup>
 		<Resource Include="Resources\Icons\Icons.xaml" />
 		<Resource Include="Resources\Icons\Logo.ico" />
-		<Resource Include="Resources\Icons\SvgIcons\Logo.ico">
-		  <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-		</Resource>
 		<Content Include="Resources\Icons\SvgIcons\**\*.svg" CopyToOutputDirectory="Always" />
 	</ItemGroup>
+
 	<ItemGroup>
-	  <None Remove="Resources\Icons\SvgIcons\Logo.ico" />
-	</ItemGroup>
-	<ItemGroup>
-	  <Compile Update="Services\Guardado\RecordatorioService.cs">
-	    <Generator>MSBuild:Compile</Generator>
-	  </Compile>
+		<None Remove="Resources\Icons\SvgIcons\Logo.ico" />
 	</ItemGroup>
 
-	<!-- ⚙️ Asegura que SharpVectors se copie al output -->
+	<!-- SIN REFERENCIAS A MÓDULOS -->
+
 	<Target Name="CopySharpVectorsAssemblies" AfterTargets="Build">
 		<ItemGroup>
 			<SharpVectorsAssemblies Include="$(NuGetPackageRoot)\sharpvectors.wpf\1.8.5\lib\net48\*.dll" />
 		</ItemGroup>
 		<Copy SourceFiles="@(SharpVectorsAssemblies)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+	</Target>
+
+	<Target Name="CopyAddinToOutput" AfterTargets="Build">
+		<Copy SourceFiles="$(ProjectDir)AragónStudioV2026.addin" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+	</Target>
+
+	<Target Name="DeployToRevit" AfterTargets="CopyAddinToOutput">
+		<PropertyGroup>
+			<RevitAddinFolder>C:\ProgramData\Autodesk\Revit\Addins\2026\</RevitAddinFolder>
+		</PropertyGroup>
+		<ItemGroup>
+			<AllDlls Include="$(OutputPath)*.dll" />
+			<AllPdbs Include="$(OutputPath)*.pdb" Condition="Exists('$(OutputPath)*.pdb')" />
+			<AllResources Include="$(OutputPath)Resources\**\*.*" />
+		</ItemGroup>
+		<MakeDir Directories="$(RevitAddinFolder)AragonStudio\" />
+		<Copy SourceFiles="$(OutputPath)AragónStudioV2026.addin" DestinationFolder="$(RevitAddinFolder)" SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(AllDlls)" DestinationFolder="$(RevitAddinFolder)AragonStudio\" SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(AllPdbs)" DestinationFolder="$(RevitAddinFolder)AragonStudio\" SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(AllResources)" DestinationFolder="$(RevitAddinFolder)AragonStudio\Resources\%(RecursiveDir)" SkipUnchangedFiles="true" />
 	</Target>
 
 </Project>

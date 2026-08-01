@@ -1,0 +1,83 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<OutputType>Library</OutputType>
+		<Platforms>x64</Platforms>
+		<Nullable>enable</Nullable>
+		<Title>Aragón Studio</Title>
+	</PropertyGroup>
+
+	<!-- Debug -->
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+		<PlatformTarget>x64</PlatformTarget>
+		<OutputPath>bin\x64\Debug\</OutputPath>
+	</PropertyGroup>
+
+	<!-- Release -->
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+		<PlatformTarget>x64</PlatformTarget>
+		<OutputPath>bin\x64\Release\</OutputPath>
+	</PropertyGroup>
+
+	<!-- 📦 Dependencias NuGet -->
+	<ItemGroup>
+		<PackageReference Include="SharpVectors.Wpf" Version="1.8.5" />
+	</ItemGroup>
+
+	<!-- 📘 Referencias de Revit 2026 -->
+	<ItemGroup>
+		<Reference Include="RevitAPI">
+			<HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPI.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="RevitAPIUI">
+			<HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPIUI.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+
+	<!-- 📁 Recursos - Solo los iconos que necesitas -->
+	<ItemGroup>
+		<Resource Include="Resources\Icons\Icons.xaml" />
+		<Resource Include="Resources\Icons\Logo.ico" />
+		<Content Include="Resources\Icons\SvgIcons\Acabados.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Clasificacion.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\DwgARvt.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Etiquetado.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\EtiquetadoArquitectonico.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\EtiquetadoEstructural.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Mep.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Guardado.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Vista3D.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Help.svg" CopyToOutputDirectory="Always" />
+		<Content Include="Resources\Icons\SvgIcons\Visibility.svg" CopyToOutputDirectory="Always" />
+	</ItemGroup>
+
+	<!-- ⚙️ Asegura que SharpVectors se copie al output -->
+	<Target Name="CopySharpVectorsAssemblies" AfterTargets="Build">
+		<ItemGroup>
+			<SharpVectorsAssemblies Include="$(NuGetPackageRoot)\sharpvectors.wpf\1.8.5\lib\net48\*.dll" />
+		</ItemGroup>
+		<Copy SourceFiles="@(SharpVectorsAssemblies)" DestinationFolder="$(OutputPath)" SkipUnchangedFiles="true" />
+	</Target>
+
+	<!-- 📋 Copiar .addin automáticamente a la carpeta de Revit -->
+	<Target Name="CopyAddinToRevit" AfterTargets="Build">
+		<Copy SourceFiles="$(ProjectDir)AragónStudioV2026.addin" DestinationFolder="C:\ProgramData\Autodesk\Revit\Addins\2026\" SkipUnchangedFiles="true" />
+	</Target>
+
+	<!-- 📦 Copiar DLLs y recursos a la carpeta de Revit -->
+	<Target Name="DeployToRevit" AfterTargets="CopyAddinToRevit">
+		<!-- Copiar la DLL -->
+		<Copy SourceFiles="$(OutputPath)AragonStudio.dll" DestinationFolder="C:\ProgramData\Autodesk\Revit\Addins\2026\" SkipUnchangedFiles="true" />
+		<!-- Copiar el PDB (para debugging) -->
+		<Copy SourceFiles="$(OutputPath)AragonStudio.pdb" DestinationFolder="C:\ProgramData\Autodesk\Revit\Addins\2026\" SkipUnchangedFiles="true" Condition="Exists('$(OutputPath)AragonStudio.pdb')" />
+		<!-- Copiar SharpVectors -->
+		<Copy SourceFiles="$(OutputPath)SharpVectors.*.dll" DestinationFolder="C:\ProgramData\Autodesk\Revit\Addins\2026\" SkipUnchangedFiles="true" />
+		<!-- Copiar recursos -->
+		<Copy SourceFiles="@(Content)" DestinationFolder="C:\ProgramData\Autodesk\Revit\Addins\2026\Resources\Icons\SvgIcons\%(RecursiveDir)" SkipUnchangedFiles="true" />
+	</Target>
+
+</Project>

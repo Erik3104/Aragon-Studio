@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aragón Studio AI</Name>
+		<Assembly>C:\Program Files\AragonStudioAI</Assembly>
+		<AddInId>a1b2c3d4-e5f6-7890-abcd-ef1234567890</AddInId>
+		<FullClassName>AragonStudioAI.Application.App</FullClassName>
+		<VendorId>ARAGON</VendorId>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SharpVectors.Wpf/1.8.5": {
+        "runtime": {
+          "lib/net8.0-windows7.0/SharpVectors.Converters.Wpf.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Core.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Css.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Dom.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Model.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Rendering.Wpf.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          },
+          "lib/net8.0-windows7.0/SharpVectors.Runtime.Wpf.dll": {
+            "assemblyVersion": "1.8.5.0",
+            "fileVersion": "1.8.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpVectors.Wpf/1.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WURdBDq5AE8RjKV9pFS7lNkJe81gxja9SaMGE4URq9GJUZ6M+5DGUL0Lm3B0iYW2/Meyowaz4ffGsyW+RBSTtg==",
+      "path": "sharpvectors.wpf/1.8.5",
+      "hashPath": "sharpvectors.wpf.1.8.5.nupkg.sha512"
+    }
+  }
+}

@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+      "projectUniqueName": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
       "projectName": "AragonStudio",
-      "projectPath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
+      "projectPath": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\AragonStudio.csproj",
       "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriks\\source\\repos\\AragonStudio\\AragonStudio\\obj\\",
+      "outputPath": "C:\\Users\\eriks\\OneDrive\\Desktop\\Aragon-Studio\\AragonStudio\\AragonStudio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

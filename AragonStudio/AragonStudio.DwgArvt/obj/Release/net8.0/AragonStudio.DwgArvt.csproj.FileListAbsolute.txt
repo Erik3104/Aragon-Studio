@@ -1,0 +1,6 @@
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.csproj.AssemblyReference.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.DwgArvt\obj\Release\net8.0\AragonStudio.DwgArvt.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.csproj.AssemblyReference.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoArquitectonico\EtiquetadoArquitectonicoWindow.baml
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoEstructural\EtiquetadoEstructuralWindow.baml
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoMEP\EtiquetadoMEPWindow.baml
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoArquitectonico\EtiquetadoArquitectonicoWindow.g.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoEstructural\EtiquetadoEstructuralWindow.g.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\UI\Documentacion\EtiquetadoMEP\EtiquetadoMEPWindow.g.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado_MarkupCompile.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.g.resources
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\Aragon-Studio\AragonStudio\AragonStudio.Etiquetado\obj\x64\Release\net8.0-windows\AragonStudio.Etiquetado.sourcelink.json
